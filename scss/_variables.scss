@@ -1,0 +1,40 @@
+/* =========================
+   COLORS
+========================= */
+$color-bg: #0b0b12;
+$color-surface: #11131b;
+$color-surface-alt: #0f1017;
+
+$color-text: #f3f2f7;
+$color-text-soft: rgba(243, 242, 247, 0.78);
+$color-text-muted: rgba(243, 242, 247, 0.56);
+
+$color-border: rgba(255, 255, 255, 0.08);
+$color-border-soft: rgba(255, 255, 255, 0.06);
+
+$color-tag: rgba(125, 92, 255, 0.24);
+$color-tag-brown: rgba(160, 113, 78, 0.28);
+$color-tag-neutral: rgba(255, 255, 255, 0.12);
+$color-tag-featured: rgba(74, 108, 255, 0.18);
+
+$color-overlay-light: rgba(11, 11, 18, 0.45);
+$color-overlay-dark: rgba(11, 11, 18, 0.72);
+
+$color-button-bg: #ece8e3;
+$color-button-text: #1a1a1f;
+
+/* =========================
+   TYPOGRAPHY
+========================= */
+$font-heading: Georgia, "Times New Roman", serif;
+$font-body: Inter, Arial, sans-serif;
+
+/* =========================
+   SIZES
+========================= */
+$radius-pill: 999px;
+$radius-md: 18px;
+
+$space-section: 72px;
+$space-section-mobile: 48px;
+$space-card: 18px;
